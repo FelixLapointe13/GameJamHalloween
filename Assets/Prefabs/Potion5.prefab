@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1430934971309241244}
   - component: {fileID: 1541002667823899979}
   - component: {fileID: 7706788994092002486}
+  - component: {fileID: 2791529647390779545}
   m_Layer: 0
   m_Name: Potion5
   m_TagString: Untagged
@@ -357,6 +358,28 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!64 &2791529647390779545
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8525899968332070863}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 5
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300080, guid: 959563bf3774748988e4ebf13d07d411, type: 3}
 --- !u!1 &8859284468207229126
 GameObject:
   m_ObjectHideFlags: 0

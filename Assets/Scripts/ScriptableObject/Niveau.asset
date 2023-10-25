@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Niveau
   m_EditorClassIdentifier: 
   _timer: 0
-  _timerStart: 0
+  _timerStart: 300
